@@ -15,8 +15,4 @@ Hello Everyone!! 👋  <br>I'm Rudra Jha,<br>🎓 Final Year B.Tech CSE(AI) Stud
 ---
 [![](https://visitcount.itsvg.in/api?id=ftrudra7&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## GitHub Contributions
-
-![GitHub Snake](https://raw.githubusercontent.com/ftrudra7/ftrudra7/output/github-snake.svg)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
